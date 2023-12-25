@@ -15,6 +15,7 @@ Plots monthly sales to identify patterns and variations.
 The analysis is based on a sales dataset containing information about invoices, branches, cities, customer types, genders, product lines, unit prices, quantities, taxes, total amounts, dates, times, payment methods, costs of goods sold (cogs), gross margin percentages, gross incomes, and ratings.
 
 **Instructions**:
+Create a virtual environment before running the script to manage dependencies.
 Load your sales dataset by updating the 'file_path' variable.
 Run the script to generate visualizations.
 
@@ -22,5 +23,7 @@ Run the script to generate visualizations.
 Python
 Pandas
 Matplotlib
+
+**The code was executed in a virtual environment. Be sure to create yours and install the dependencies before executing the code**
 
 Feel free to explore, modify, and adapt the code for your specific use case.
