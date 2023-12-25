@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Load the sales dataset
-file_path = r'C:\Users\HP\Desktop\sales_dataset\supermarket_sales - Sheet1.csv'
+file_path = r'path to your file\supermarket_sales - Sheet1.csv'
 sales_data = pd.read_csv(file_path)
 
 # Display basic information about the dataset
